@@ -1,11 +1,11 @@
-### Hi, I'm Caique 👋
+### Hi, I'm Caique 
 
 **AI Engineer** focused on building, evaluating and shipping LLM systems that hold up in production. Based in São Paulo, Brazil, working remotely with teams in Europe, the US and Brazil.
 
-- 🔬 **Quality AI Engineer @ Hilti Group.** Evaluation and CI quality gates for a LangGraph RAG assistant used across 60+ countries and a voice agent that creates sales quotes: golden datasets, execution-path assertions, LLM-as-a-judge, red-teaming, model migration benchmarks.
-- 🤖 **AI Engineer @ BerTech LLC.** Agentic document automation in production for US clients (Copilot Studio, Azure Functions, Claude), LangGraph multi-agent systems, MCP integrations.
-- 🧱 **Independent consulting.** Snowflake data warehouses and automated reporting, multi-agent platforms, and full-stack systems for retail and manufacturing.
-- 🎓 MBA in AI, Data Science & Big Data (PUC-RS). 7+ years across data engineering, analytics and AI.
+- **Quality AI Engineer @ Hilti Group.** Evaluation and CI quality gates for a LangGraph RAG assistant used across 60+ countries and a voice agent that creates sales quotes: golden datasets, execution-path assertions, LLM-as-a-judge, red-teaming, model migration benchmarks.
+- **AI Engineer @ BerTech LLC.** Agentic document automation in production for US clients (Copilot Studio, Azure Functions, Claude), LangGraph multi-agent systems, MCP integrations.
+- **Independent consulting.** Snowflake data warehouses and automated reporting, multi-agent platforms, and full-stack systems for retail and manufacturing.
+- MBA in AI, Data Science & Big Data (PUC-RS). 7+ years across data engineering, analytics and AI.
 
 #### Featured
 
