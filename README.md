@@ -17,10 +17,10 @@
 
 #### Toolbox
 
-**AI and LLMs:** LangGraph · LangChain · RAG · Azure OpenAI · Azure AI Search · Azure AI Foundry · Claude · MCP · Copilot Studio · DeepEval · PyRIT
-**Data:** Snowflake · SQL · Azure Data Factory · Microsoft Fabric · Python · Pandas · Power BI
-**Engineering:** Python · FastAPI · TypeScript · Node.js · Next.js · PostgreSQL · Prisma · Playwright · pytest
-**Cloud and delivery:** Azure · GCP (GKE) · AWS · Docker · GitLab CI · GitHub Actions
+- **AI and LLMs:** LangGraph · LangChain · RAG · Azure OpenAI · Azure AI Search · Azure AI Foundry · Claude · MCP · Copilot Studio · DeepEval · PyRIT
+- **Data:** Snowflake · SQL · Azure Data Factory · Microsoft Fabric · Python · Pandas · Power BI
+- **Engineering:** Python · FastAPI · TypeScript · Node.js · Next.js · PostgreSQL · Prisma · Playwright · pytest
+- **Cloud and delivery:** Azure · GCP (GKE) · AWS · Docker · GitLab CI · GitHub Actions
 
 #### Find me
 
